@@ -20,5 +20,5 @@ public class MainActivity extends AppCompatActivity {
         //version 0.2
         String textString = "This is our version 2";
 
-    }
+     }
 }
